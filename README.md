@@ -1,2 +1,2 @@
-# Eyequeue
+# EyeQ
 class favicon project
